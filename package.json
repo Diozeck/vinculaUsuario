@@ -1,0 +1,25 @@
+{
+  "name": "vinculaUsuario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "serverless deploy"
+  },
+  "keywords": [],
+  "author": "ErickMartinez",
+  "license": "ISC",
+  "dependencies": {
+    "authy": "^1.4.0",
+    "authy-client": "^1.1.4",
+    "aws-serverless-express": "^3.3.8",
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4",
+    "twilio": "^3.44.0"
+  },
+  "devDependencies": {
+    "serverless": "^1.71.3"
+  }
+}
