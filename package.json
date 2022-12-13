@@ -14,7 +14,7 @@
     "authy": "^1.4.0",
     "authy-client": "^1.1.4",
     "aws-serverless-express": "^3.3.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "swagger-jsdoc": "^4.0.0",
     "swagger-ui-express": "^4.1.4",
     "twilio": "^3.44.0"
